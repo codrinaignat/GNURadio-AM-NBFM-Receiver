@@ -8,4 +8,4 @@ Application features:
 - displayed frequency bandwidth selection;
 - received spectrum display and the corresponding spectrogram;
 - frequency step set for the center frequency;
-- signal suppression 
+- signal suppression set by the parameter squelch adjustment. 
