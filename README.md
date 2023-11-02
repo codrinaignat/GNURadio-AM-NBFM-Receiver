@@ -1,5 +1,7 @@
 # GNURadio-AM-NBFM-Receiver
 
+This application was part of my dissertation thesis and it uses the RTL-SDR device, a cheap, popular and versatile SDR device.
+
 Application features:
 - select the type of receiver you want to use (AM/NBFM);
 - volume adjust;
