@@ -12,3 +12,5 @@ Application features:
 - frequency step set for the center frequency;
 - signal suppression set by the parameter squelch adjustment.
 
+What you need in order to use this application: RTL-SDR device, GNU Radio software installed. 
+If you want to find out more information about the RTL-SDR device, you can take a look here: https://usermanual.wiki/Document/The20Hobbyists20Guide20To20RTLSDR2020Carl20Laufer.399886352/view
